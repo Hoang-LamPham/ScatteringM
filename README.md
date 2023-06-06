@@ -86,7 +86,7 @@ It is also noted that the accuracy of NNs is less favorable than heuristic appro
 
 <img src="Images/RCWA_GPU_iter.png" width="500" align='center'>
 
-ScatteringM took about 30s for inverse problem of 3D structures with tens of parameters (only within a 6Gb GPU). The results were very close to CD-SEM.
+ScatteringM took about 30s for inverse problem of 3D structures with tens of parameters. The results were very close to CD-SEM.
 
 <img src="Images/RCWA_GPU_iter_result.png" width="400" align='center'>
 

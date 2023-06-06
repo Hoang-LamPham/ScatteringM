@@ -10,7 +10,7 @@ ScatteringM has been developing since 2020. At the beginning, the idea was to us
 We must strive for a break-through approach to meet the demand of such practical metrology. Step by step, ScatteringM has evolved to fulfill metrology challenges and now, ScatteringM is expanding to metasurfaces. 
 
 ### Application:
-In optical metrology, ScatteringM enables accurate and fast solution for inverse problems to characterize: optical indices, CD_SEM, thickness... of multilayers from Spectrocopic, Mueller Ellipsometry in both Deep learning and heuristic approach:
+In optical metrology, ScatteringM enables accurate and fast solution for inverse problems to characterize: optical index, CD_SEM, thickness... of multilayers from Spectroscopic, Mueller Ellipsometry in both Deep learning and heuristic approach:
 * We established an efficient algorithm to massively generate training data to empower neural networks. 
 * The heuristic approach based on GPU-RCWA in ScatteringM for inverse problems of multilayers with tens of parameteers is implemented in **second scales**.
 
